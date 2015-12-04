@@ -1,7 +1,7 @@
 '''
 @author: Ruslan
 '''
-print 'Strings are Sequences'
+print 'Strings are Sequences!'
 s = 'Hello World'
 print len(s)
 print s[0]
