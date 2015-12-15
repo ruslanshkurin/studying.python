@@ -16,4 +16,4 @@ print math.sqrt(64)
 import random
 print '\ntest random'
 print random.random()
-print random.choice([2, 8, 77])
+print random.choice([2, 8, 77, 666])
